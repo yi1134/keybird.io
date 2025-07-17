@@ -1,6 +1,3 @@
-- XXXXXXX论文
+- 目前有一篇边缘计算中资源分配优化论文TMC在投。
 
-- XXXXXXX论文
-
-- XXXXXXX论文
 

@@ -1,21 +1,19 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Backend Development Intern**  
+**February 2025 – April 2025 | ByteDance**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- Business Requirements Analysis & API Design: Led the analysis of the team’s inventory management business needs, covering four key modules—Inventory Navigation, Marketing Navigation, Product Tracking Navigation, and Customer Tracking Navigation. Designed RESTful API interfaces using Spring Boot, Redis/message-queue middleware, and MySQL. Produced detailed module design proposals, API documentation, ER diagrams, and system-architecture documents; followed corporate field-definition standards and implemented robust exception‑handling strategies.
+- Framework Setup & Core Module Development: Spearheaded the creation of the foundational development framework to ensure system efficiency and scalability. Developed and tested core functionalities of the Product Logistics & Warehousing Management module, including end‑to‑end module integration.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Comprehensive System & Database Design: Executed full-cycle system requirement analysis, system and interface design, and led the database schema design and optimization efforts.  
 
 ---
 
-### **软件工程师实习生**  
+### **后端开发实习生**  
 **2025年1月 – 2025年6月 | 字节跳动**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+- 业务需求分析与 API 设计：负责组内进销存管理业务需求分析，包含：库存导航、营销导航、商品跟踪导航和客户跟踪导航四个模块。基于 SpringBoot、中间件(redis / 消息队列)、MySQL 等技术栈设计 RESTful 的 API 接口。完成进销存三模块的设计方案、接口文档、ER 图和系统架构文档，参考公司文档定义字段规范、编写异常处理策略等。
+- 框架搭建与核心模块开发：主导并完成基础开发框架的搭建，确保系统架构的高效性和可扩展性。负责商品物流与仓储管理模块的核心功能编码，实现模块联调测试。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 完成系统需求分析、系统设计、接口设计，并设计和优化数据库设计。

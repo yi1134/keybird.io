@@ -1,20 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+目前就读于东北大学软件工程硕士研究生，找工作ing。
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### 邮箱  
+<code>djiacheng07@163.com</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### 教育背景
+2023.09-2026.06 **东北大学（985、211）** 软件工程 <硕士>
+• 主修课程：高级软件工程、高级人工智能、高级算法设计与分析、应用数理统计、软件工程案例分析等；
+• 综合成绩：83.24/100；
+2019.09-2023.06 **东北大学（985、211）** 信息管理与信息系统 <学士> • 主修课程：运筹学、信息系统分析与设计、管理信息系统、数据库应用开发技术、商务网站开发与管理等；
+• 综合成绩：85.58/100，专业排名 20%；
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### 研究方向
+边缘计算.
