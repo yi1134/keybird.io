@@ -18,6 +18,8 @@
 #### 主要贡献:  
 - 完成系统需求分析、系统设计、接口设计，并设计和优化数据库设计。
 
+---
+
 ### **Backend Development Intern**
 
 **July 2025 – Present | Shanghai Shenwan Hongyuan Securities**
