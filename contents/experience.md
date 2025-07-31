@@ -29,7 +29,7 @@
 
 #### Key Contributions:
 
-* Enhanced overall model accuracy and stability through iterative back-testing and parameter tuning.
+* Build the model and enhanced overall model accuracy and stability through iterative back-testing and parameter tuning.
 
 ---
 
@@ -42,4 +42,4 @@
 
 #### 主要贡献：
 
-* 通过反复回测与参数调优，提升模型整体准确性和稳定性。
+* 搭建模型并通过反复回测与参数调优，提升模型整体准确性和稳定性。
