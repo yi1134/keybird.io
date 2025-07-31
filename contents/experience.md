@@ -17,3 +17,27 @@
 
 #### 主要贡献:  
 - 完成系统需求分析、系统设计、接口设计，并设计和优化数据库设计。
+
+### **Backend Development Intern**
+
+**July 2025 – Present | Shanghai Shenwan Hongyuan Securities**
+
+* **Bond Business Analysis & API Design**: Led analysis of the firm’s bond trading workflows—including issuance tracking, yield-curve navigation, and credit-risk monitoring. Designed and implemented RESTful APIs using Spring Boot, Redis/Kafka middleware, and MySQL; delivered API documentation, ER diagrams, and sequence diagrams.
+* **Pricing & Forecasting Model Development**: Developed discounted-cash-flow (DCF) and option-adjusted spread (OAS) pricing models in Python (NumPy/SciPy), and built machine-learning–based yield-curve forecasting modules with scikit-learn, achieving \~15% improvement in forecast accuracy.
+
+#### Key Contributions:
+
+* **Database & Performance Optimization**: Refined database schema and indexing strategies, reducing core query latency by 25% and ensuring stable performance under high request volumes.
+
+---
+
+### **后端开发实习生**
+
+**2025年7月 – 至今 | 上海申万宏源证券**
+
+* **债券业务分析与 API 设计**：负责债券发行跟踪、收益率曲线导航及信用风险监控等业务流程分析；基于 Spring Boot、Redis/Kafka 和 MySQL 设计并实现 RESTful 接口，编写接口文档、ER 图及时序图。
+* **定价与预测模型开发**：使用 Python（NumPy/SciPy）实现贴现现金流（DCF）和期权调整利差（OAS）定价模型，基于 scikit-learn 构建收益率曲线预测模块，预测准确率提升约15%。
+
+#### 主要贡献：
+
+* **数据库与性能优化**：优化表结构和索引策略，使核心查询响应速度提升约25%，在高并发场景下保持系统稳定。
