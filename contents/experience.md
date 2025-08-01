@@ -20,7 +20,7 @@
 
 ---
 
-### **Quantitative Research Intern**
+### **Backend Development Intern**
 
 **July 2025 – Present | Shanghai Shenwan Hongyuan Securities**
 
@@ -33,7 +33,7 @@
 
 ---
 
-### **量化研究实习生**
+### **后端开发实习生**
 
 **2025年7月 – 至今 | 上海申万宏源证券**
 
